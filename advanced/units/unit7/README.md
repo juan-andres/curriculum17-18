@@ -1,7 +1,7 @@
 # Unit 7: Civic Info App
 
 ## Overview
-In this unit, coders will create a Civic Info App. The Civic Info App will take an address and display all of the elected representatives realted to that address. To create this project, students will use AJAX to make a get request witha body parameter, handle a JSON response object, and use jQuery to display multiple objects to the screen.
+In this unit, coders will create a Civic Info App. The Civic Info App will take an address and display all of the elected representatives related to that address. To create this project, students will use AJAX to make a get request with a body parameter, handle a JSON response object, and use jQuery to display multiple objects to the screen.
 
 ## Important Links
 
@@ -14,6 +14,6 @@ In this unit, coders will create a Civic Info App. The Civic Info App will take 
 |:-------:|-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1H40VvavX0N4xZtA1VJfQD5gelOLNflGozumlbdUoXos/edit#slide=id.g1e220fa94a_0_26)|<li>1.1 Plan and wireframe a project.</li> <li>1.2 Reading API Documentation and creating and API Key. </li>|Add Styling|
 |[**2**](https://docs.google.com/presentation/d/1H40VvavX0N4xZtA1VJfQD5gelOLNflGozumlbdUoXos/edit#slide=id.g1f587f6424_5_5)|<li>2.1 Using Postman to test your API.</li> <li> 2.2 Creating and AJAX GET request with query parameters.</li>  |Work on Project|
-|[**3**](https://docs.google.com/presentation/d/1H40VvavX0N4xZtA1VJfQD5gelOLNflGozumlbdUoXos/edit#slide=id.g1e220fa94a_0_4)|<li>3.1 Creating a complex element with JQuery.</li> <li>3.2 Dynamically displaying multiple items from reponse data.</li> |Submit Project|
+|[**3**](https://docs.google.com/presentation/d/1H40VvavX0N4xZtA1VJfQD5gelOLNflGozumlbdUoXos/edit#slide=id.g1e220fa94a_0_4)|<li>3.1 Creating a complex element with JQuery.</li> <li>3.2 Dynamically displaying multiple items from response data.</li> |Submit Project|
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced#unit-7-api">Contribute to the Wiki</a></h3>
